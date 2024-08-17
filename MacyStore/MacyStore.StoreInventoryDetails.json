@@ -1,0 +1,2995 @@
+[{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35b8"
+  },
+  "store_id": "S001",
+  "store_name": "Macy's Herald Square",
+  "location": {
+    "address": "151 W 34th St, New York, NY 10001"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P040",
+      "quantity_available": 150,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P010",
+      "quantity_available": 80,
+      "reorder_point": 30
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 200,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P025",
+      "quantity_available": 100,
+      "reorder_point": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35b9"
+  },
+  "store_id": "S002",
+  "store_name": "Macy's Chicago",
+  "location": {
+    "address": "111 N State St, Chicago, IL 60602"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P005",
+      "quantity_available": 120,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P035",
+      "quantity_available": 90,
+      "reorder_point": 30
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 180,
+      "reorder_point": 50
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35ba"
+  },
+  "store_id": "S003",
+  "store_name": "Macy's San Francisco",
+  "location": {
+    "address": "170 O'Farrell St, San Francisco, CA 94102"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P025",
+      "quantity_available": 130,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P050",
+      "quantity_available": 70,
+      "reorder_point": 30
+    },
+    {
+      "product_id": "P090",
+      "quantity_available": 150,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P070",
+      "quantity_available": 110,
+      "reorder_point": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35bb"
+  },
+  "store_id": "S004",
+  "store_name": "Macy's Los Angeles",
+  "location": {
+    "address": "750 W 7th St, Los Angeles, CA 90017"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P030",
+      "quantity_available": 160,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 100,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P020",
+      "quantity_available": 192,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P060",
+      "quantity_available": 80,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35bc"
+  },
+  "store_id": "S005",
+  "store_name": "Macy's Miami",
+  "location": {
+    "address": "Dadeland Mall, 7303 SW 88th St, Miami, FL 33156"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P010",
+      "quantity_available": 110,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P040",
+      "quantity_available": 90,
+      "reorder_point": 30
+    },
+    {
+      "product_id": "P085",
+      "quantity_available": 300,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P065",
+      "quantity_available": 70,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35bd"
+  },
+  "store_id": "S006",
+  "location": {
+    "address": "The Galleria, 5135 W Alabama St, Houston, TX 77056"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P015",
+      "quantity_available": 140,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P045",
+      "quantity_available": 80,
+      "reorder_point": 30
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 160,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P075",
+      "quantity_available": 100,
+      "reorder_point": 40
+    }
+  ],
+  "store_name": "Macy's Houston"
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35be"
+  },
+  "store_id": "S007",
+  "store_name": "Macy's Dallas",
+  "location": {
+    "address": "NorthPark Center, 8687 N Central Expy, Dallas, TX 75225"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P020",
+      "quantity_available": 120,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P050",
+      "quantity_available": 90,
+      "reorder_point": 30
+    },
+    {
+      "product_id": "P100",
+      "quantity_available": 170,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 80,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35bf"
+  },
+  "store_id": "S008",
+  "store_name": "Macy's Boston",
+  "location": {
+    "address": "450 Washington St, Boston, MA 02111"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P025",
+      "quantity_available": 130,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P055",
+      "quantity_available": 70,
+      "reorder_point": 30
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 150,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P085",
+      "quantity_available": 110,
+      "reorder_point": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35c0"
+  },
+  "store_id": "S009",
+  "store_name": "Macy's Seattle",
+  "location": {
+    "address": "1601 3rd Ave, Seattle, WA 98181"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P030",
+      "quantity_available": 140,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P060",
+      "quantity_available": 80,
+      "reorder_point": 30
+    },
+    {
+      "product_id": "P090",
+      "quantity_available": 160,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P070",
+      "quantity_available": 100,
+      "reorder_point": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35c1"
+  },
+  "store_id": "S010",
+  "store_name": "Macy's Philadelphia",
+  "location": {
+    "address": "1300 Market St, Philadelphia, PA 19107"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P035",
+      "quantity_available": 150,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P065",
+      "quantity_available": 90,
+      "reorder_point": 30
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 170,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P075",
+      "quantity_available": 80,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35c2"
+  },
+  "store_id": "S011",
+  "store_name": "Macy's Atlanta",
+  "location": {
+    "address": "3393 Peachtree Rd NE, Atlanta, GA 30326"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P040",
+      "quantity_available": 160,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P070",
+      "quantity_available": 100,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P100",
+      "quantity_available": 180,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 90,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35c3"
+  },
+  "store_id": "S012",
+  "store_name": "Macy's Las Vegas 01",
+  "location": {
+    "address": "Fashion Show Mall, 3200 S Las Vegas Blvd, Las Vegas, NV 89109"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P045",
+      "quantity_available": 170,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P075",
+      "quantity_available": 110,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P005",
+      "quantity_available": 190,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P065",
+      "quantity_available": 80,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35c4"
+  },
+  "store_id": "S013",
+  "store_name": "Macy's San Diego",
+  "location": {
+    "address": "7007 Friars Rd, San Diego, CA 92108"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P050",
+      "quantity_available": 180,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 120,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P010",
+      "quantity_available": 200,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P070",
+      "quantity_available": 100,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35c5"
+  },
+  "store_id": "S014",
+  "store_name": "Macy's Orlando",
+  "location": {
+    "address": "Florida Mall, 8001 S Orange Blossom Trail, Orlando, FL 32809"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P055",
+      "quantity_available": 190,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P085",
+      "quantity_available": 130,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P015",
+      "quantity_available": 220,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P075",
+      "quantity_available": 90,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35c6"
+  },
+  "store_id": "S015",
+  "store_name": "Macy's Washington DC",
+  "location": {
+    "address": "1201 G St NW, Washington, DC 20005"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P060",
+      "quantity_available": 200,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P090",
+      "quantity_available": 140,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P020",
+      "quantity_available": 230,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 110,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35c7"
+  },
+  "store_id": "S016",
+  "store_name": "Macy's Minneapolis",
+  "location": {
+    "address": "700 On The Mall, Minneapolis, MN 55402"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P065",
+      "quantity_available": 210,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 150,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P025",
+      "quantity_available": 240,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P085",
+      "quantity_available": 120,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35c8"
+  },
+  "store_id": "S017",
+  "store_name": "Macy's Phoenix",
+  "location": {
+    "address": "Paradise Valley Mall, 4568 E Cactus Rd, Phoenix, AZ 85032"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P070",
+      "quantity_available": 220,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P100",
+      "quantity_available": 160,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P030",
+      "quantity_available": 250,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P090",
+      "quantity_available": 130,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35c9"
+  },
+  "store_id": "S018",
+  "store_name": "Macy's Nashville",
+  "location": {
+    "address": "Green Hills Mall, 2126 Abbott Martin Rd, Nashville, TN 37215"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P075",
+      "quantity_available": 230,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P010",
+      "quantity_available": 170,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P035",
+      "quantity_available": 260,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 140,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35ca"
+  },
+  "store_id": "S019",
+  "store_name": "Macy's Detroit",
+  "location": {
+    "address": "Twelve Oaks Mall, 27500 Novi Rd, Novi, MI 48377"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P080",
+      "quantity_available": 240,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P015",
+      "quantity_available": 180,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P040",
+      "quantity_available": 270,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P100",
+      "quantity_available": 150,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35cb"
+  },
+  "store_id": "S020",
+  "store_name": "Macy's Portland",
+  "location": {
+    "address": "Macy's Port Store"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P085",
+      "quantity_available": 250,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P020",
+      "quantity_available": 190,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P045",
+      "quantity_available": 280,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P010",
+      "quantity_available": 160,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35cc"
+  },
+  "store_id": "S021",
+  "store_name": "Macy's Tampa",
+  "location": {
+    "address": "Westshore Plaza, 250 Westshore Plaza, Tampa, FL 33609"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P090",
+      "quantity_available": 260,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P025",
+      "quantity_available": 200,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P050",
+      "quantity_available": 290,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P015",
+      "quantity_available": 170,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35cd"
+  },
+  "store_id": "S022",
+  "store_name": "Macy's Charlotte",
+  "location": {
+    "address": "SouthPark Mall, 4400 Sharon Rd, Charlotte, NC 28211"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P095",
+      "quantity_available": 270,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P030",
+      "quantity_available": 210,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P055",
+      "quantity_available": 300,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P020",
+      "quantity_available": 180,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35ce"
+  },
+  "store_id": "S023",
+  "store_name": "Macy's Indianapolis",
+  "location": {
+    "address": "8352 Castleton Corner Dr, Indianapolis, IN 46250"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P100",
+      "quantity_available": 280,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P035",
+      "quantity_available": 220,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P060",
+      "quantity_available": 310,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P025",
+      "quantity_available": 190,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35cf"
+  },
+  "store_id": "S024",
+  "store_name": "Macy's New Orleans",
+  "location": {
+    "address": "Lakeside Shopping Center, 3301 Veterans Memorial Blvd, Metairie, LA 70002"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P005",
+      "quantity_available": 290,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P040",
+      "quantity_available": 230,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P065",
+      "quantity_available": 320,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P030",
+      "quantity_available": 200,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621253ca4ffeb94b3cf35d0"
+  },
+  "store_id": "S025",
+  "store_name": "Macy's Pittsburgh",
+  "location": {
+    "address": "100 Robinson Centre Dr, Pittsburgh, PA 15205"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P010",
+      "quantity_available": 300,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P045",
+      "quantity_available": 240,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P070",
+      "quantity_available": 330,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P035",
+      "quantity_available": 210,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3652"
+  },
+  "store_id": "S026",
+  "store_name": "Macy's Lake City",
+  "location": {
+    "address": "The Gateway, 52 S Main St, Salt Lake City, UT 84101"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P015",
+      "quantity_available": 310,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P050",
+      "quantity_available": 250,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P075",
+      "quantity_available": 340,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P040",
+      "quantity_available": 220,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3653"
+  },
+  "store_id": "S027",
+  "store_name": "Macy's Cincinnati",
+  "location": {
+    "address": "7800 Montgomery Rd, Cincinnati, OH 45236"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P020",
+      "quantity_available": 320,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P055",
+      "quantity_available": 260,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 350,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P045",
+      "quantity_available": 230,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3654"
+  },
+  "store_id": "S028",
+  "store_name": "Macy's Austin 01",
+  "location": {
+    "address": "Barton Creek Square, 2901 S Capital of Texas Hwy, Austin, TX 78746"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P025",
+      "quantity_available": 330,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P060",
+      "quantity_available": 270,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P085",
+      "quantity_available": 360,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P050",
+      "quantity_available": 240,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3655"
+  },
+  "store_id": "S029",
+  "store_name": "Macy's San Antonio 01",
+  "location": {
+    "address": "La Cantera, 15900 La Cantera Pkwy, San Antonio, TX 78256"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P030",
+      "quantity_available": 340,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P065",
+      "quantity_available": 280,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P090",
+      "quantity_available": 370,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P055",
+      "quantity_available": 250,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3656"
+  },
+  "store_id": "S030",
+  "store_name": "Macy's Sacramento",
+  "location": {
+    "address": "Arden Fair, 1701 Arden Way, Sacramento, CA 95815"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P035",
+      "quantity_available": 350,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P070",
+      "quantity_available": 290,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 380,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P060",
+      "quantity_available": 260,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3657"
+  },
+  "store_id": "S031",
+  "store_name": "Macy's Raleigh",
+  "location": {
+    "address": "Crabtree Valley Mall, 4325 Glenwood Ave, Raleigh, NC 27612"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P040",
+      "quantity_available": 360,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P075",
+      "quantity_available": 300,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P100",
+      "quantity_available": 390,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P065",
+      "quantity_available": 270,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3658"
+  },
+  "store_id": "S032",
+  "store_name": "Macy's Las Vegas 02",
+  "location": {
+    "address": "Fashion Show Mall, 3200 S Las Vegas Blvd, Las Vegas, NV 89110"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P045",
+      "quantity_available": 370,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 310,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P005",
+      "quantity_available": 400,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P070",
+      "quantity_available": 280,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3659"
+  },
+  "store_id": "S033",
+  "store_name": "Macy's Denver",
+  "location": {
+    "address": "Cherry Creek Shopping Center, 15 S Steele St, Denver, CO 80209"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P050",
+      "quantity_available": 380,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P085",
+      "quantity_available": 320,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P010",
+      "quantity_available": 410,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P075",
+      "quantity_available": 290,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb365a"
+  },
+  "store_id": "S034",
+  "store_name": "Macy's Kansas City",
+  "location": {
+    "address": "Oak Park Mall, 11149 W 95th St, Overland Park, KS 66214"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P055",
+      "quantity_available": 390,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P020",
+      "quantity_available": 330,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P090",
+      "quantity_available": 420,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 300,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb365b"
+  },
+  "store_id": "S035",
+  "store_name": "Macy's Oklahoma City",
+  "location": {
+    "address": "Penn Square Mall, 1901 NW Expressway, Oklahoma City, OK 73118"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P060",
+      "quantity_available": 400,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P025",
+      "quantity_available": 340,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P100",
+      "quantity_available": 430,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P085",
+      "quantity_available": 310,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb365c"
+  },
+  "store_id": "S036",
+  "store_name": "Macy's Tucson",
+  "location": {
+    "address": "Tucson Mall, 4500 N Oracle Rd, Tucson, AZ 85705"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P065",
+      "quantity_available": 410,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P030",
+      "quantity_available": 350,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P005",
+      "quantity_available": 440,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P090",
+      "quantity_available": 320,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb365d"
+  },
+  "store_id": "S037",
+  "store_name": "Macy's Des Moines",
+  "location": {
+    "address": "Jordan Creek Town Center, 101 Jordan Creek Pkwy, West Des Moines, IA 50266"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P070",
+      "quantity_available": 420,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P035",
+      "quantity_available": 360,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P010",
+      "quantity_available": 450,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 330,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb365e"
+  },
+  "store_id": "S038",
+  "store_name": "Macy's Anchorage",
+  "location": {
+    "address": "5th Avenue Mall, 320 W 5th Ave, Anchorage, AK 99501"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P075",
+      "quantity_available": 430,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P040",
+      "quantity_available": 370,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P015",
+      "quantity_available": 460,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P100",
+      "quantity_available": 340,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb365f"
+  },
+  "store_id": "S039",
+  "store_name": "Macy's Honolulu",
+  "location": {
+    "address": "Ala Moana Center, 1450 Ala Moana Blvd, Honolulu, HI 96814"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P080",
+      "quantity_available": 440,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P045",
+      "quantity_available": 380,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P020",
+      "quantity_available": 470,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P010",
+      "quantity_available": 350,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3660"
+  },
+  "store_id": "S040",
+  "store_name": "Macy's Ral",
+  "location": {
+    "address": "Crabtree , NC 27912"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P085",
+      "quantity_available": 450,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P050",
+      "quantity_available": 390,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P025",
+      "quantity_available": 480,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P015",
+      "quantity_available": 360,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3661"
+  },
+  "store_id": "S041",
+  "store_name": "Macy's Salt Lake City",
+  "location": {
+    "address": "The Gateway, 51 S Main St, Salt Lake City, UT 84101"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P090",
+      "quantity_available": 460,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P055",
+      "quantity_available": 400,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P030",
+      "quantity_available": 490,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P020",
+      "quantity_available": 370,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3662"
+  },
+  "store_id": "S042",
+  "store_name": "Macy's Atlanta 01",
+  "location": {
+    "address": "3393 Peachtree Rd NE, Atlanta, GA 30327"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P095",
+      "quantity_available": 470,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P060",
+      "quantity_available": 410,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P035",
+      "quantity_available": 500,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P025",
+      "quantity_available": 380,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3663"
+  },
+  "store_id": "S043",
+  "store_name": "Macy's Phoenix 01",
+  "location": {
+    "address": "Paradise Valley Mall, 4568 E Cactus Rd, Phoenix, AZ 85033"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P100",
+      "quantity_available": 480,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P065",
+      "quantity_available": 420,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P040",
+      "quantity_available": 510,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P030",
+      "quantity_available": 390,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3664"
+  },
+  "store_id": "S044",
+  "store_name": "Macy's ville",
+  "location": {
+    "address": "Green ville, TN 35215"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P010",
+      "quantity_available": 490,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P070",
+      "quantity_available": 430,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P045",
+      "quantity_available": 520,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P035",
+      "quantity_available": 400,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3665"
+  },
+  "store_id": "S045",
+  "store_name": "Macy's Detroit 01",
+  "location": {
+    "address": "Twelve Oaks Mall, 27501 Novi Rd, Novi"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P015",
+      "quantity_available": 500,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 440,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P050",
+      "quantity_available": 530,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P040",
+      "quantity_available": 410,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3666"
+  },
+  "store_id": "S046",
+  "store_name": "Macy's Portland 04",
+  "location": {
+    "address": "Pioneer Place, 625 SW 5th Ave, Portland"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P020",
+      "quantity_available": 510,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P085",
+      "quantity_available": 450,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P055",
+      "quantity_available": 540,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P050",
+      "quantity_available": 420,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3667"
+  },
+  "store_id": "S047",
+  "store_name": "Macy's Ampa",
+  "location": {
+    "address": "Plaza, 250 FL 33709"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P025",
+      "quantity_available": 520,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P090",
+      "quantity_available": 460,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P060",
+      "quantity_available": 550,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P055",
+      "quantity_available": 430,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3668"
+  },
+  "store_id": "S048",
+  "store_name": "Macy's Charlotte 01",
+  "location": {
+    "address": "SouthPark Mall, 4400 Sharon Rd, Charlotte, NC 28212"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P030",
+      "quantity_available": 530,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 470,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P065",
+      "quantity_available": 560,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P060",
+      "quantity_available": 440,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb3669"
+  },
+  "store_id": "S049",
+  "store_name": "Macy's Indianapolis 03",
+  "location": {
+    "address": "8352 Castleton Corner Dr, Indianapolis, IN 46251"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P035",
+      "quantity_available": 540,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P100",
+      "quantity_available": 480,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P070",
+      "quantity_available": 570,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P065",
+      "quantity_available": 450,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6621267ca7b8822edbfb366a"
+  },
+  "store_id": "S050",
+  "store_name": "Macy's New Orleans 01",
+  "location": {
+    "address": "Lakeside Shopping Center, 3301 Veterans Memorial Blvd, Metairie, LA 70003"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P040",
+      "quantity_available": 550,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P005",
+      "quantity_available": 490,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P075",
+      "quantity_available": 580,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P070",
+      "quantity_available": 460,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb366b"
+  },
+  "store_id": "S051",
+  "store_name": "Macy's Pittsburgh 01",
+  "location": {
+    "address": "100 Robinson Centre Dr, Pittsburgh, PA 15206"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P045",
+      "quantity_available": 560,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P010",
+      "quantity_available": 500,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 590,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P075",
+      "quantity_available": 470,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb366c"
+  },
+  "store_id": "S052",
+  "store_name": "Macy's City",
+  "location": {
+    "address": "The 54 S Main St, UT 84101"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P050",
+      "quantity_available": 570,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P015",
+      "quantity_available": 510,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P085",
+      "quantity_available": 600,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 480,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb366d"
+  },
+  "store_id": "S053",
+  "store_name": "Macy's Austin 02",
+  "location": {
+    "address": "Barton Creek Square, 2901 S Capital of Texas Hwy, Austin, TX 78747"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P055",
+      "quantity_available": 580,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P020",
+      "quantity_available": 520,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P090",
+      "quantity_available": 610,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P085",
+      "quantity_available": 490,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb366e"
+  },
+  "store_id": "S054",
+  "store_name": "Macy's San Antonio 02",
+  "location": {
+    "address": "La Cantera, 15900 La Cantera Pkwy, San Antonio, TX 78257"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P060",
+      "quantity_available": 590,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P025",
+      "quantity_available": 530,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 620,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P090",
+      "quantity_available": 500,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb366f"
+  },
+  "store_id": "S055",
+  "store_name": "Macy's Sacramento 01",
+  "location": {
+    "address": "Arden Fair, 1701 Arden Way, Sacramento, CA 95816"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P065",
+      "quantity_available": 600,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P030",
+      "quantity_available": 540,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P100",
+      "quantity_available": 630,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 510,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb3670"
+  },
+  "store_id": "S056",
+  "store_name": "Macy's leigh",
+  "location": {
+    "address": "Leigh, NC 23612"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P070",
+      "quantity_available": 610,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P035",
+      "quantity_available": 550,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P010",
+      "quantity_available": 640,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P100",
+      "quantity_available": 520,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb3671"
+  },
+  "store_id": "S057",
+  "store_name": "Macy's Las Vegas 03",
+  "location": {
+    "address": "Fashion Show Mall, 3200 S Las Vegas Blvd, Las Vegas, NV 89111"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P075",
+      "quantity_available": 620,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P040",
+      "quantity_available": 560,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P015",
+      "quantity_available": 650,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P005",
+      "quantity_available": 530,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb3672"
+  },
+  "store_id": "S058",
+  "store_name": "Macy's Dec",
+  "location": {
+    "address": "Cherry Creek Shopping Center, 20 S Steele St, Denver, CO 80210"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P080",
+      "quantity_available": 630,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P045",
+      "quantity_available": 570,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P020",
+      "quantity_available": 660,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P010",
+      "quantity_available": 540,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb3673"
+  },
+  "store_id": "S059",
+  "store_name": "Macy's Kaas City",
+  "location": {
+    "address": "Oak Park Mall, Overland Park, 66"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P085",
+      "quantity_available": 640,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P050",
+      "quantity_available": 580,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P025",
+      "quantity_available": 670,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P015",
+      "quantity_available": 550,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb3674"
+  },
+  "store_id": "S060",
+  "store_name": "Macy's Okla City",
+  "location": {
+    "address": "Penn Square Mall, 1901 NW Expressway, Okla City, 73"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P090",
+      "quantity_available": 650,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P055",
+      "quantity_available": 590,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P030",
+      "quantity_available": 680,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P020",
+      "quantity_available": 560,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb3675"
+  },
+  "store_id": "S061",
+  "store_name": "Macy's Tucon",
+  "location": {
+    "address": "Tucson Mall, N Oracle Rd, Tucon, 705"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P095",
+      "quantity_available": 660,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P060",
+      "quantity_available": 600,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P035",
+      "quantity_available": 690,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P025",
+      "quantity_available": 570,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb3676"
+  },
+  "store_id": "S062",
+  "store_name": "Macy's Moines",
+  "location": {
+    "address": "Jordan Creek Town Center, 101 Jordan Creek Pkwy, West Des, IS 50"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P100",
+      "quantity_available": 670,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P065",
+      "quantity_available": 610,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P040",
+      "quantity_available": 700,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P030",
+      "quantity_available": 580,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb3677"
+  },
+  "store_id": "S063",
+  "store_name": "Macy's Anchor",
+  "location": {
+    "address": "5th Avenue Mall, Anchorage, 995"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P005",
+      "quantity_available": 680,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P070",
+      "quantity_available": 620,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P045",
+      "quantity_available": 710,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P035",
+      "quantity_available": 590,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb3678"
+  },
+  "store_id": "S064",
+  "store_name": "Macy's Honolu",
+  "location": {
+    "address": "Ala Moana Center, 1450 Ala Moana Blvd, Honolu, HI 968"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P010",
+      "quantity_available": 690,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P075",
+      "quantity_available": 630,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P050",
+      "quantity_available": 720,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P040",
+      "quantity_available": 600,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb3679"
+  },
+  "store_id": "S065",
+  "store_name": "Macy's Feros",
+  "location": {
+    "address": "Valley Mall,NC 27612"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P015",
+      "quantity_available": 700,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 640,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P055",
+      "quantity_available": 730,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P045",
+      "quantity_available": 610,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb367a"
+  },
+  "store_id": "S066",
+  "store_name": "Macy's Gateway Store",
+  "location": {
+    "address": "The Gateway, UT 84101"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P020",
+      "quantity_available": 710,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P085",
+      "quantity_available": 650,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P060",
+      "quantity_available": 740,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P050",
+      "quantity_available": 620,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb367b"
+  },
+  "store_id": "S067",
+  "store_name": "Macy's Atlanta 02",
+  "location": {
+    "address": "3393 Peachtree Rd NE, Atlanta, GA 30328"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P025",
+      "quantity_available": 720,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P090",
+      "quantity_available": 660,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P065",
+      "quantity_available": 750,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P055",
+      "quantity_available": 630,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb367c"
+  },
+  "store_id": "S068",
+  "store_name": "Macy's Phoenix 02",
+  "location": {
+    "address": "Paradise Valley Mall, 4568 E Cactus Rd, Phoenix, AZ 85034"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P030",
+      "quantity_available": 730,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 670,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P070",
+      "quantity_available": 760,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P065",
+      "quantity_available": 640,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb367d"
+  },
+  "store_id": "S069",
+  "store_name": "Macy's Lile",
+  "location": {
+    "address": "Green Lile, TN 390215"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P035",
+      "quantity_available": 740,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P100",
+      "quantity_available": 680,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P075",
+      "quantity_available": 770,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P070",
+      "quantity_available": 650,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb367e"
+  },
+  "store_id": "S070",
+  "store_name": "Macy's Detroit 02",
+  "location": {
+    "address": "Twelve Oaks Mall, 27502 Novi Rd, Novi"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P040",
+      "quantity_available": 750,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P005",
+      "quantity_available": 690,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 780,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P075",
+      "quantity_available": 660,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb367f"
+  },
+  "store_id": "S071",
+  "store_name": "Macy's Portland 01",
+  "location": {
+    "address": "Pioneer Place, 622 SW 5th Ave, Portland"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P045",
+      "quantity_available": 760,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P010",
+      "quantity_available": 700,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P085",
+      "quantity_available": 790,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 670,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb3680"
+  },
+  "store_id": "S072",
+  "store_name": "Macy's Tara",
+  "location": {
+    "address": "Zlaza, FL 330009"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P050",
+      "quantity_available": 770,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P015",
+      "quantity_available": 710,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P090",
+      "quantity_available": 800,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P085",
+      "quantity_available": 680,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb3681"
+  },
+  "store_id": "S073",
+  "store_name": "Macy's Charlotte 02",
+  "location": {
+    "address": "SouthPark Mall, 4400 Sharon Rd, Charlotte, NC 28213"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P055",
+      "quantity_available": 780,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P020",
+      "quantity_available": 720,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 810,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P090",
+      "quantity_available": 690,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb3682"
+  },
+  "store_id": "S074",
+  "store_name": "Macy's Indianapolis 02",
+  "location": {
+    "address": "8352 Castleton Corner Dr, Indianapolis, IN 46252"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P060",
+      "quantity_available": 790,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P025",
+      "quantity_available": 730,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P100",
+      "quantity_available": 820,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 700,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662126fba7b8822edbfb3683"
+  },
+  "store_id": "S075",
+  "store_name": "Macy's New Orleans 02",
+  "location": {
+    "address": "Lakeside Shopping Center, 3301 Veterans Memorial Blvd, Metairie, LA 70004"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P065",
+      "quantity_available": 800,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P030",
+      "quantity_available": 740,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P005",
+      "quantity_available": 830,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P100",
+      "quantity_available": 710,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb3684"
+  },
+  "store_id": "S076",
+  "store_name": "Macy's Pittsburgh 02",
+  "location": {
+    "address": "100 Robinson Centre Dr, Pittsburgh, PA 15207"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P070",
+      "quantity_available": 810,
+      "reorder_point": 50
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb3685"
+  },
+  "store_id": "S077",
+  "store_name": "Macy's Diamond City",
+  "location": {
+    "address": "The Diamond , 51 S Main St, UT 84401"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P075",
+      "quantity_available": 820,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P040",
+      "quantity_available": 760,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P015",
+      "quantity_available": 850,
+      "reorder_point": 60
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb3686"
+  },
+  "store_id": "S078",
+  "store_name": "Macy's Austin 03",
+  "location": {
+    "address": "Barton Creek Square, 2901 S Capital of Texas Hwy, Austin, TX 78748"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P080",
+      "quantity_available": 830,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P045",
+      "quantity_available": 770,
+      "reorder_point": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb3687"
+  },
+  "store_id": "S079",
+  "store_name": "Macy's San Antonio 03",
+  "location": {
+    "address": "La Cantera, 15900 La Cantera Pkwy, San Antonio, TX 78258"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P085",
+      "quantity_available": 840,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P050",
+      "quantity_available": 780,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P025",
+      "quantity_available": 870,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P020",
+      "quantity_available": 750,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb3688"
+  },
+  "store_id": "S080",
+  "store_name": "Macy's Sacramento 02",
+  "location": {
+    "address": "Arden Fair, 1701 Arden Way, Sacramento, CA 95817"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P090",
+      "quantity_available": 850,
+      "reorder_point": 50
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb3689"
+  },
+  "store_id": "S081",
+  "store_name": "Macy's Vista",
+  "location": {
+    "address": "Vista, NC 27422"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P095",
+      "quantity_available": 860,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P060",
+      "quantity_available": 800,
+      "reorder_point": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb368a"
+  },
+  "store_id": "S082",
+  "store_name": "Macy's Geese City",
+  "location": {
+    "address": "The Geese, 51 S Main St"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P100",
+      "quantity_available": 870,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P065",
+      "quantity_available": 810,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P040",
+      "quantity_available": 900,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P035",
+      "quantity_available": 780,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb368b"
+  },
+  "store_id": "S083",
+  "store_name": "Macy's Atlanta 03",
+  "location": {
+    "address": "3393 Peachtree Rd NE, Atlanta, GA 30329"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P005",
+      "quantity_available": 880,
+      "reorder_point": 50
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb368c"
+  },
+  "store_id": "S084",
+  "store_name": "Macy's Phoenix 03",
+  "location": {
+    "address": "Paradise Valley Mall, 4568 E Cactus Rd, Phoenix, AZ 85035"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P010",
+      "quantity_available": 890,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P075",
+      "quantity_available": 830,
+      "reorder_point": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb368d"
+  },
+  "store_id": "S085",
+  "store_name": "Macy's Star",
+  "location": {
+    "address": "Green Star, TN 33455"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P015",
+      "quantity_available": 900,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 840,
+      "reorder_point": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb368e"
+  },
+  "store_id": "S086",
+  "store_name": "Macy's Detroit 03",
+  "location": {
+    "address": "Twelve Oaks Mall, 27503 Novi Rd, Novi, MI 48377"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P020",
+      "quantity_available": 910,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P085",
+      "quantity_available": 850,
+      "reorder_point": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb368f"
+  },
+  "store_id": "S087",
+  "store_name": "Macy's Portland 02",
+  "location": {
+    "address": "Pioneer Place, 623 SW 5th Ave, Portland"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P025",
+      "quantity_available": 920,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P090",
+      "quantity_available": 860,
+      "reorder_point": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb3690"
+  },
+  "store_id": "S088",
+  "store_name": "Macy's Vio",
+  "location": {
+    "address": "Westshore Vio 31109"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P030",
+      "quantity_available": 930,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 870,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P070",
+      "quantity_available": 960,
+      "reorder_point": 60
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb3691"
+  },
+  "store_id": "S089",
+  "store_name": "Macy's Charlotte 03",
+  "location": {
+    "address": "SouthPark Mall, 4400 Sharon Rd, Charlotte, NC 28215"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P035",
+      "quantity_available": 940,
+      "reorder_point": 50
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb3692"
+  },
+  "store_id": "S090",
+  "store_name": "Macy's Indianapolis 04",
+  "location": {
+    "address": "8352 Castleton Corner Dr, Indianapolis, IN 46253"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P040",
+      "quantity_available": 950,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P005",
+      "quantity_available": 890,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P080",
+      "quantity_available": 980,
+      "reorder_point": 60
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb3693"
+  },
+  "store_id": "S091",
+  "store_name": "Macy's New Orleans 03",
+  "location": {
+    "address": "Lakeside Shopping Center, 3301 Veterans Memorial Blvd, Metairie, LA 70005"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P045",
+      "quantity_available": 960,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P010",
+      "quantity_available": 900,
+      "reorder_point": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb3694"
+  },
+  "store_id": "S092",
+  "store_name": "Macy's Pittsburgh 03",
+  "location": {
+    "address": "100 Robinson Centre Dr, Pittsburgh, PA 15208"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P050",
+      "quantity_available": 970,
+      "reorder_point": 50
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb3695"
+  },
+  "store_id": "S093",
+  "store_name": "Macy's Bureir City",
+  "location": {
+    "address": "The Bureir City, UT 84901"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P055",
+      "quantity_available": 980,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P020",
+      "quantity_available": 920,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 1010,
+      "reorder_point": 60
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb3696"
+  },
+  "store_id": "S094",
+  "store_name": "Macy's Atlanta 04",
+  "location": {
+    "address": "3393 Peachtree Rd NE, Atlanta, GA 30330"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P060",
+      "quantity_available": 990,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P100",
+      "quantity_available": 1020,
+      "reorder_point": 60
+    },
+    {
+      "product_id": "P095",
+      "quantity_available": 900,
+      "reorder_point": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb3697"
+  },
+  "store_id": "S095",
+  "store_name": "Macy's Phoenix 04",
+  "location": {
+    "address": "Paradise Valley Mall, 4568 E Cactus Rd, Phoenix, AZ 85036"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P065",
+      "quantity_available": 1000,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P030",
+      "quantity_available": 940,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P005",
+      "quantity_available": 1030,
+      "reorder_point": 60
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb3698"
+  },
+  "store_id": "S096",
+  "store_name": "Macy's Vintage",
+  "location": {
+    "address": "Green Vintage, TN 38755"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P070",
+      "quantity_available": 1010,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P035",
+      "quantity_available": 950,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P010",
+      "quantity_available": 1040,
+      "reorder_point": 60
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb3699"
+  },
+  "store_id": "S097",
+  "store_name": "Macy's Detroit 04",
+  "location": {
+    "address": "Twelve Oaks Mall, 27504 Novi Rd, Novi"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P075",
+      "quantity_available": 1020,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P040",
+      "quantity_available": 960,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P015",
+      "quantity_available": 1050,
+      "reorder_point": 60
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb369a"
+  },
+  "store_id": "S098",
+  "store_name": "Macy's Portland 03",
+  "location": {
+    "address": "Pioneer Place, 624 SW 5th Ave, Portland"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P080",
+      "quantity_available": 1030,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P045",
+      "quantity_available": 970,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P020",
+      "quantity_available": 1060,
+      "reorder_point": 60
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66212a43a7b8822edbfb369b"
+  },
+  "store_id": "S099",
+  "store_name": "Macy's Tweek",
+  "location": {
+    "address": "Tweek, FL 22609"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P085",
+      "quantity_available": 1040,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P050",
+      "quantity_available": 980,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P025",
+      "quantity_available": 1070,
+      "reorder_point": 60
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6627d119b744e7940e502343"
+  },
+  "store_id": "S100",
+  "store_name": "Macy's Sacramento 03",
+  "location": {
+    "address": "Arden Fair, 1701 Arden Way, Sacramento, CA 95818"
+  },
+  "inventory_levels": [
+    {
+      "product_id": "P090",
+      "quantity_available": 1050,
+      "reorder_point": 50
+    },
+    {
+      "product_id": "P055",
+      "quantity_available": 990,
+      "reorder_point": 40
+    },
+    {
+      "product_id": "P030",
+      "quantity_available": 1080,
+      "reorder_point": 60
+    }
+  ]
+}]

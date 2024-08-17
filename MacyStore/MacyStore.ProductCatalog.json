@@ -1,0 +1,1800 @@
+[{
+  "_id": {
+    "$oid": "6621125aa4ffeb94b3cf3554"
+  },
+  "product_id": "P001",
+  "product_name": "Men's Casual Shirt",
+  "description": "Soft cotton shirt for everyday wear",
+  "category": "Apparel",
+  "price": 29.99,
+  "supplier_info": {
+    "supplier_id": "S001",
+    "supplier_name": "Fashion Suppliers Inc.",
+    "contact_info": {
+      "email": "contact@fashionsuppliers.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621138da4ffeb94b3cf3555"
+  },
+  "product_id": "P002",
+  "product_name": "Women's Skinny Jeans",
+  "description": "Stretch denim jeans for a comfortable fit",
+  "category": "Apparel",
+  "price": 39.99,
+  "supplier_info": {
+    "supplier_id": "S002",
+    "supplier_name": "Denim Delights",
+    "contact_info": {
+      "email": "contact@denimdelights.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621138da4ffeb94b3cf3556"
+  },
+  "product_id": "P003",
+  "product_name": "Men's Leather Belt",
+  "description": "Genuine leather belt for a classic look",
+  "category": "Apparel",
+  "price": 24.99,
+  "supplier_info": {
+    "supplier_id": "S003",
+    "supplier_name": "Leather Works",
+    "contact_info": {
+      "email": "contact@leatherworks.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621138da4ffeb94b3cf3557"
+  },
+  "product_id": "P004",
+  "product_name": "Women's Floral Dress",
+  "description": "Elegant floral dress for special occasions",
+  "category": "Apparel",
+  "price": 49.99,
+  "supplier_info": {
+    "supplier_id": "S004",
+    "supplier_name": "Fashion Trends Ltd.",
+    "contact_info": {
+      "email": "contact@fashiontrends.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf3558"
+  },
+  "product_id": "P005",
+  "product_name": "Men's Chinos",
+  "description": "Stylish chinos for a smart-casual look",
+  "category": "Apparel",
+  "price": 34.99,
+  "supplier_info": {
+    "supplier_id": "S005",
+    "supplier_name": "Chino Emporium",
+    "contact_info": {
+      "email": "contact@chinoemporium.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf3559"
+  },
+  "product_id": "P006",
+  "product_name": "Women's Denim Jacket",
+  "description": "Classic denim jacket for versatile styling",
+  "category": "Apparel",
+  "price": 44.99,
+  "supplier_info": {
+    "supplier_id": "S006",
+    "supplier_name": "Denim Divas",
+    "contact_info": {
+      "email": "contact@denimdivas.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf355a"
+  },
+  "product_id": "P007",
+  "product_name": "Men's Hooded Sweatshirt",
+  "description": "Warm sweatshirt with a hood for chilly days",
+  "category": "Apparel",
+  "price": 27.99,
+  "supplier_info": {
+    "supplier_id": "S007",
+    "supplier_name": "Sweater Co.",
+    "contact_info": {
+      "email": "contact@sweaterco.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf355b"
+  },
+  "product_id": "P008",
+  "product_name": "Women's Basic T-Shirt",
+  "description": "Essential cotton t-shirt for everyday comfort",
+  "category": "Apparel",
+  "price": 19.99,
+  "supplier_info": {
+    "supplier_id": "S008",
+    "supplier_name": "Tee Trends",
+    "contact_info": {
+      "email": "contact@teetrends.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf355c"
+  },
+  "product_id": "P009",
+  "product_name": "Men's Cargo Shorts",
+  "description": "Functional cargo shorts with multiple pockets",
+  "category": "Apparel",
+  "price": 32.99,
+  "supplier_info": {
+    "supplier_id": "S009",
+    "supplier_name": "Cargo Creations",
+    "contact_info": {
+      "email": "contact@cargocreations.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf355d"
+  },
+  "product_id": "P010",
+  "product_name": "Women's Maxi Skirt",
+  "description": "Flowy maxi skirt for a bohemian look",
+  "category": "Apparel",
+  "price": 49.99,
+  "supplier_info": {
+    "supplier_id": "S010",
+    "supplier_name": "Maxi Styles",
+    "contact_info": {
+      "email": "contact@maxistyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf355e"
+  },
+  "product_id": "P011",
+  "product_name": "Men's Polo Shirt",
+  "description": "Classic polo shirt for a timeless style",
+  "category": "Apparel",
+  "price": 24.99,
+  "supplier_info": {
+    "supplier_id": "S011",
+    "supplier_name": "Polo Palace",
+    "contact_info": {
+      "email": "contact@polopalace.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf355f"
+  },
+  "product_id": "P012",
+  "product_name": "Women's Ankle Boots",
+  "description": "Stylish ankle boots for everyday wear",
+  "category": "Apparel",
+  "price": 59.99,
+  "supplier_info": {
+    "supplier_id": "S012",
+    "supplier_name": "Boot Boutique",
+    "contact_info": {
+      "email": "contact@bootboutique.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf3560"
+  },
+  "product_id": "P013",
+  "product_name": "Men's Denim Jacket",
+  "description": "Classic denim jacket for a rugged look",
+  "category": "Apparel",
+  "price": 49.99,
+  "supplier_info": {
+    "supplier_id": "S013",
+    "supplier_name": "Denim Depot",
+    "contact_info": {
+      "email": "contact@denimdepot.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf3561"
+  },
+  "product_id": "P014",
+  "product_name": "Women's Basic Cardigan",
+  "description": "Versatile cardigan for layering",
+  "category": "Apparel",
+  "price": 34.99,
+  "supplier_info": {
+    "supplier_id": "S014",
+    "supplier_name": "Cardi Creations",
+    "contact_info": {
+      "email": "contact@cardicreations.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf3562"
+  },
+  "product_id": "P015",
+  "product_name": "Men's Formal Suit",
+  "description": "Elegant suit for formal occasions",
+  "category": "Apparel",
+  "price": 129.99,
+  "supplier_info": {
+    "supplier_id": "S015",
+    "supplier_name": "Formal Fashion",
+    "contact_info": {
+      "email": "contact@formalfashion.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf3563"
+  },
+  "product_id": "P016",
+  "product_name": "Women's Summer Dress",
+  "description": "Lightweight dress perfect for summer",
+  "category": "Apparel",
+  "price": 39.99,
+  "supplier_info": {
+    "supplier_id": "S016",
+    "supplier_name": "Summer Styles",
+    "contact_info": {
+      "email": "contact@summerstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf3564"
+  },
+  "product_id": "P017",
+  "product_name": "Men's Athletic Shorts",
+  "description": "Comfortable shorts for workouts and sports",
+  "category": "Apparel",
+  "price": 19.99,
+  "supplier_info": {
+    "supplier_id": "S017",
+    "supplier_name": "Athletic Apparel Inc.",
+    "contact_info": {
+      "email": "contact@athleticapparel.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf3565"
+  },
+  "product_id": "P018",
+  "product_name": "Women's Wool Coat",
+  "description": "Warm wool coat for cold weather",
+  "category": "Apparel",
+  "price": 89.99,
+  "supplier_info": {
+    "supplier_id": "S018",
+    "supplier_name": "Wooly Wonders",
+    "contact_info": {
+      "email": "contact@woolywonders.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf3566"
+  },
+  "product_id": "P019",
+  "product_name": "Men's Crewneck Sweater",
+  "description": "Cozy sweater for layering in chilly weather",
+  "category": "Apparel",
+  "price": 37.99,
+  "supplier_info": {
+    "supplier_id": "S019",
+    "supplier_name": "Sweater Styles",
+    "contact_info": {
+      "email": "contact@sweaterstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf3567"
+  },
+  "product_id": "P020",
+  "product_name": "Women's Faux Leather Jacket",
+  "description": "Stylish jacket with faux leather finish",
+  "category": "Apparel",
+  "price": 54.99,
+  "supplier_info": {
+    "supplier_id": "S020",
+    "supplier_name": "Leather Look",
+    "contact_info": {
+      "email": "contact@leatherlook.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf3568"
+  },
+  "product_id": "P021",
+  "product_name": "Men's Casual Shorts",
+  "description": "Relaxed-fit shorts for casual outings",
+  "category": "Apparel",
+  "price": 24.99,
+  "supplier_info": {
+    "supplier_id": "S021",
+    "supplier_name": "Shorts Galore",
+    "contact_info": {
+      "email": "contact@shortsgalore.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf3569"
+  },
+  "product_id": "P022",
+  "product_name": "Women's Knit Sweater",
+  "description": "Cozy knit sweater for warmth and style",
+  "category": "Apparel",
+  "price": 42.99,
+  "supplier_info": {
+    "supplier_id": "S022",
+    "supplier_name": "Knit Kouture",
+    "contact_info": {
+      "email": "contact@knitkouture.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf356a"
+  },
+  "product_id": "P023",
+  "product_name": "Men's V-Neck Sweater",
+  "description": "Classic v-neck sweater for a refined look",
+  "category": "Apparel",
+  "price": 39.99,
+  "supplier_info": {
+    "supplier_id": "S023",
+    "supplier_name": "V-Neck Ventures",
+    "contact_info": {
+      "email": "contact@vneckventures.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf356b"
+  },
+  "product_id": "P024",
+  "product_name": "Women's Fitted Blouse",
+  "description": "Tailored blouse for a polished look",
+  "category": "Apparel",
+  "price": 29.99,
+  "supplier_info": {
+    "supplier_id": "S024",
+    "supplier_name": "Blouse Boutique",
+    "contact_info": {
+      "email": "contact@blouseboutique.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf356c"
+  },
+  "product_id": "P025",
+  "product_name": "Men's Puffer Jacket",
+  "description": "Insulated jacket for cold weather",
+  "category": "Apparel",
+  "price": 69.99,
+  "supplier_info": {
+    "supplier_id": "S025",
+    "supplier_name": "Puffer Paradise",
+    "contact_info": {
+      "email": "contact@pufferparadise.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf356d"
+  },
+  "product_id": "P026",
+  "product_name": "Women's Leather Gloves",
+  "description": "Chic leather gloves for cold days",
+  "category": "Apparel",
+  "price": 34.99,
+  "supplier_info": {
+    "supplier_id": "S026",
+    "supplier_name": "Glove Galore",
+    "contact_info": {
+      "email": "contact@glovegalore.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf356e"
+  },
+  "product_id": "P027",
+  "product_name": "Men's Slim-Fit Jeans",
+  "description": "Modern slim-fit jeans for a sleek silhouette",
+  "category": "Apparel",
+  "price": 44.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf356f"
+  },
+  "product_id": "P028",
+  "product_name": "Women's Fleece Jacket",
+  "description": "Cozy fleece jacket for outdoor adventures",
+  "category": "Apparel",
+  "price": 49.99,
+  "supplier_info": {
+    "supplier_id": "S028",
+    "supplier_name": "Fleece Fashion",
+    "contact_info": {
+      "email": "contact@fleecefashion.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf3570"
+  },
+  "product_id": "P029",
+  "product_name": "Men's Oxford Shirt",
+  "description": "Classic oxford shirt for a polished look",
+  "category": "Apparel",
+  "price": 34.99,
+  "supplier_info": {
+    "supplier_id": "S029",
+    "supplier_name": "Oxford Outfitters",
+    "contact_info": {
+      "email": "contact@oxfordoutfitters.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662114c6a4ffeb94b3cf3571"
+  },
+  "product_id": "P030",
+  "product_name": "Women's Pencil Skirt",
+  "description": "Sleek pencil skirt for a professional look",
+  "category": "Apparel",
+  "price": 29.99,
+  "supplier_info": {
+    "supplier_id": "S030",
+    "supplier_name": "Pencil Perfect",
+    "contact_info": {
+      "email": "contact@pencilperfect.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3572"
+  },
+  "product_id": "P031",
+  "product_name": "Men's Checked Shirt",
+  "description": "Stylish checked shirt for casual wear",
+  "category": "Apparel",
+  "price": 29.99,
+  "supplier_info": {
+    "supplier_id": "S031",
+    "supplier_name": "Checkered Chic",
+    "contact_info": {
+      "email": "contact@checkeredchic.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3573"
+  },
+  "product_id": "P032",
+  "product_name": "Women's Utility Jacket",
+  "description": "Functional jacket with multiple pockets",
+  "category": "Apparel",
+  "price": 54.99,
+  "supplier_info": {
+    "supplier_id": "S032",
+    "supplier_name": "Utility Wear",
+    "contact_info": {
+      "email": "contact@utilitywear.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3574"
+  },
+  "product_id": "P033",
+  "product_name": "Men's Wool Sweater",
+  "description": "Warm wool sweater for cold days",
+  "category": "Apparel",
+  "price": 49.99,
+  "supplier_info": {
+    "supplier_id": "S033",
+    "supplier_name": "Wool Wonders",
+    "contact_info": {
+      "email": "contact@woolwonders.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3575"
+  },
+  "product_id": "P034",
+  "product_name": "Women's Lace Dress",
+  "description": "Elegant lace dress for special occasions",
+  "category": "Apparel",
+  "price": 59.99,
+  "supplier_info": {
+    "supplier_id": "S034",
+    "supplier_name": "Lace Luxe",
+    "contact_info": {
+      "email": "contact@laceluxe.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3576"
+  },
+  "product_id": "P035",
+  "product_name": "Men's Chino Shorts",
+  "description": "Casual chino shorts for warm days",
+  "category": "Apparel",
+  "price": 24.99,
+  "supplier_info": {
+    "supplier_id": "S035",
+    "supplier_name": "Chino Comfort",
+    "contact_info": {
+      "email": "contact@chinocomfort.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3577"
+  },
+  "product_id": "P036",
+  "product_name": "Women's Midi Skirt",
+  "description": "Versatile midi skirt for various occasions",
+  "category": "Apparel",
+  "price": 34.99,
+  "supplier_info": {
+    "supplier_id": "S036",
+    "supplier_name": "Midi Magic",
+    "contact_info": {
+      "email": "contact@midimagic.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3578"
+  },
+  "product_id": "P037",
+  "product_name": "Men's Parka Jacket",
+  "description": "Insulated parka jacket for extreme cold",
+  "category": "Apparel",
+  "price": 89.99,
+  "supplier_info": {
+    "supplier_id": "S037",
+    "supplier_name": "Parka Paradise",
+    "contact_info": {
+      "email": "contact@parkaparadise.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3579"
+  },
+  "product_id": "P038",
+  "product_name": "Women's Bomber Jacket",
+  "description": "Stylish bomber jacket for urban chic",
+  "category": "Apparel",
+  "price": 64.99,
+  "supplier_info": {
+    "supplier_id": "S038",
+    "supplier_name": "Bomber Babe",
+    "contact_info": {
+      "email": "contact@bomberbabe.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf357a"
+  },
+  "product_id": "P039",
+  "product_name": "Men's Leather Jacket",
+  "description": "Classic leather jacket for timeless style",
+  "category": "Apparel",
+  "price": 99.99,
+  "supplier_info": {
+    "supplier_id": "S039",
+    "supplier_name": "Leather Luxe",
+    "contact_info": {
+      "email": "contact@leatherluxe.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf357b"
+  },
+  "product_id": "P040",
+  "product_name": "Women's Wool Scarf",
+  "description": "Soft wool scarf for warmth and style",
+  "category": "Apparel",
+  "price": 19.99,
+  "supplier_info": {
+    "supplier_id": "S040",
+    "supplier_name": "Wooly Warmers",
+    "contact_info": {
+      "email": "contact@woolywarmers.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf357c"
+  },
+  "product_id": "P041",
+  "product_name": "Women's Hooded Sweatshirt",
+  "description": "Comfortable hooded sweatshirt for everyday wear",
+  "category": "Apparel",
+  "price": 34.99,
+  "supplier_info": {
+    "supplier_id": "S041",
+    "supplier_name": "Hoodie Haven",
+    "contact_info": {
+      "email": "contact@hoodiehaven.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf357d"
+  },
+  "product_id": "P042",
+  "product_name": "Women's Pleated Skirt",
+  "description": "Chic pleated skirt for a feminine look",
+  "category": "Apparel",
+  "price": 39.99,
+  "supplier_info": {
+    "supplier_id": "S042",
+    "supplier_name": "Pleats Please",
+    "contact_info": {
+      "email": "contact@pleatsplease.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf357e"
+  },
+  "product_id": "P043",
+  "product_name": "Men's Denim Jeans",
+  "description": "Classic denim jeans for versatile style",
+  "category": "Apparel",
+  "price": 49.99,
+  "supplier_info": {
+    "supplier_id": "S043",
+    "supplier_name": "Denim Dreams",
+    "contact_info": {
+      "email": "contact@denimdreams.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf357f"
+  },
+  "product_id": "P044",
+  "product_name": "Women's Crop Top",
+  "description": "Stylish crop top for a trendy look",
+  "category": "Apparel",
+  "price": 24.99,
+  "supplier_info": {
+    "supplier_id": "S044",
+    "supplier_name": "Crop Chic",
+    "contact_info": {
+      "email": "contact@cropchic.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3580"
+  },
+  "product_id": "P045",
+  "product_name": "Women’s Leather Belt",
+  "description": "Classic leather belt for a refined look",
+  "category": "Apparel",
+  "price": 29.99,
+  "supplier_info": {
+    "supplier_id": "S045",
+    "supplier_name": "Belt Boutique",
+    "contact_info": {
+      "email": "contact@beltboutique.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3581"
+  },
+  "product_id": "P046",
+  "product_name": "Women's Ballet Flats",
+  "description": "Classic ballet flats for everyday comfort",
+  "category": "Apparel",
+  "price": 34.99,
+  "supplier_info": {
+    "supplier_id": "S046",
+    "supplier_name": "Ballet Boutique",
+    "contact_info": {
+      "email": "contact@balletboutique.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3582"
+  },
+  "product_id": "P047",
+  "product_name": "Men's Wool Hat",
+  "description": "Warm wool hat for cold days",
+  "category": "Apparel",
+  "price": 19.99,
+  "supplier_info": {
+    "supplier_id": "S047",
+    "supplier_name": "Wooly Wearables",
+    "contact_info": {
+      "email": "contact@woolywearables.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3583"
+  },
+  "product_id": "P048",
+  "product_name": "Women's Wool Beret",
+  "description": "Classic wool beret for a chic look",
+  "category": "Apparel",
+  "price": 24.99,
+  "supplier_info": {
+    "supplier_id": "S048",
+    "supplier_name": "Beret Boutique",
+    "contact_info": {
+      "email": "contact@beretboutique.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3584"
+  },
+  "product_id": "P049",
+  "product_name": "Men's Cotton Socks",
+  "description": "Comfortable cotton socks for everyday wear",
+  "category": "Apparel",
+  "price": 9.99,
+  "supplier_info": {
+    "supplier_id": "S049",
+    "supplier_name": "Sock Styles",
+    "contact_info": {
+      "email": "contact@sockstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3585"
+  },
+  "product_id": "P050",
+  "product_name": "Women's Knee-High Boots",
+  "description": "Stylish knee-high boots for a chic look",
+  "category": "Apparel",
+  "price": 59.99,
+  "supplier_info": {
+    "supplier_id": "S012",
+    "supplier_name": "Boot Boutique",
+    "contact_info": {
+      "email": "contact@bootboutique.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3586"
+  },
+  "product_id": "P051",
+  "product_name": "Men's Leather Wallet",
+  "description": "Classic leather wallet for everyday use",
+  "category": "Apparel",
+  "price": 19.99,
+  "supplier_info": {
+    "supplier_id": "S051",
+    "supplier_name": "Wallet Warehouse",
+    "contact_info": {
+      "email": "contact@walletwarehouse.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3587"
+  },
+  "product_id": "P052",
+  "product_name": "Women's Leather Tote",
+  "description": "Classic leather tote for everyday style",
+  "category": "Apparel",
+  "price": 49.99,
+  "supplier_info": {
+    "supplier_id": "S052",
+    "supplier_name": "Tote Trends",
+    "contact_info": {
+      "email": "contact@totetrends.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3588"
+  },
+  "product_id": "P053",
+  "product_name": "Men's Leather Gloves",
+  "description": "Classic leather gloves for cold days",
+  "category": "Apparel",
+  "price": 34.99,
+  "supplier_info": {
+    "supplier_id": "S053",
+    "supplier_name": "Glove Guys",
+    "contact_info": {
+      "email": "contact@gloveguys.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf3589"
+  },
+  "product_id": "P054",
+  "product_name": "Women's Soft Jacket",
+  "description": "Classic denim jacket for casual style",
+  "category": "Apparel",
+  "price": 54.99,
+  "supplier_info": {
+    "supplier_id": "S006",
+    "supplier_name": "Denim Divas",
+    "contact_info": {
+      "email": "contact@denimdivas.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66211710a4ffeb94b3cf358a"
+  },
+  "product_id": "P055",
+  "product_name": "Men's Dress Socks",
+  "description": "Stylish dress socks for formal wear",
+  "category": "Apparel",
+  "price": 14.99,
+  "supplier_info": {
+    "supplier_id": "S055",
+    "supplier_name": "Sock Savvy",
+    "contact_info": {
+      "email": "contact@socksavvy.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf358b"
+  },
+  "product_id": "P056",
+  "product_name": "Women's Wool Mittens",
+  "description": "Warm wool mittens for cold days",
+  "category": "Apparel",
+  "price": 19.99,
+  "supplier_info": {
+    "supplier_id": "S056",
+    "supplier_name": "Mitten Maven",
+    "contact_info": {
+      "email": "contact@mittenmaven.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf358c"
+  },
+  "product_id": "P057",
+  "product_name": "Men's Varsity Jacket",
+  "description": "Classic varsity jacket for sporty style",
+  "category": "Apparel",
+  "price": 69.99,
+  "supplier_info": {
+    "supplier_id": "S057",
+    "supplier_name": "Varsity Styles",
+    "contact_info": {
+      "email": "contact@varsitystyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf358d"
+  },
+  "product_id": "P058",
+  "product_name": "Women's Trench Coat",
+  "description": "Classic trench coat for timeless style",
+  "category": "Apparel",
+  "price": 79.99,
+  "supplier_info": {
+    "supplier_id": "S058",
+    "supplier_name": "Trench Trends",
+    "contact_info": {
+      "email": "contact@trenchtrends.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf358e"
+  },
+  "product_id": "P059",
+  "product_name": "Men's Wool Scarf",
+  "description": "Soft wool scarf for warmth and style",
+  "category": "Apparel",
+  "price": 24.99,
+  "supplier_info": {
+    "supplier_id": "S040",
+    "supplier_name": "Wooly Warmers",
+    "contact_info": {
+      "email": "contact@woolywarmers.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf358f"
+  },
+  "product_id": "P060",
+  "product_name": "Women's Leather Gloves",
+  "description": "Chic leather gloves for cold days",
+  "category": "Apparel",
+  "price": 34.99,
+  "supplier_info": {
+    "supplier_id": "S026",
+    "supplier_name": "Glove Galore",
+    "contact_info": {
+      "email": "contact@glovegalore.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf3590"
+  },
+  "product_id": "P061",
+  "product_name": "Men's Silky Slim-Fit Jeans",
+  "description": "Modern slim-fit silky jeans for a sleek silhouette",
+  "category": "Apparel",
+  "price": 44.99,
+  "supplier_info": {
+    "supplier_id": "S061",
+    "supplier_name": "NY Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf3591"
+  },
+  "product_id": "P062",
+  "product_name": "Women's Modern Jacket",
+  "description": "Cozy fleece jacket for outdoor adventures",
+  "category": "Apparel",
+  "price": 49.99,
+  "supplier_info": {
+    "supplier_id": "S028",
+    "supplier_name": "Fleece Fashion",
+    "contact_info": {
+      "email": "contact@fleecefashion.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf3592"
+  },
+  "product_id": "P063",
+  "product_name": "Men's Button-up Shirt",
+  "description": "Classic oxford button-up shirt for a polished look",
+  "category": "Apparel",
+  "price": 34.99,
+  "supplier_info": {
+    "supplier_id": "S029",
+    "supplier_name": "Oxford Outfitters",
+    "contact_info": {
+      "email": "contact@oxfordoutfitters.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf3593"
+  },
+  "product_id": "P064",
+  "product_name": "Women's Long Skirt",
+  "description": "Sleek long skirt for a professional look",
+  "category": "Apparel",
+  "price": 29.99,
+  "supplier_info": {
+    "supplier_id": "S030",
+    "supplier_name": "Pencil Perfect",
+    "contact_info": {
+      "email": "contact@pencilperfect.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf3594"
+  },
+  "product_id": "P065",
+  "product_name": "Men's Stripe Shirt",
+  "description": "Stylish striped shirt for casual wear",
+  "category": "Apparel",
+  "price": 29.99,
+  "supplier_info": {
+    "supplier_id": "S031",
+    "supplier_name": "Checkered Chic",
+    "contact_info": {
+      "email": "contact@checkeredchic.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf3595"
+  },
+  "product_id": "P066",
+  "product_name": "Women's Winter Jacket\"",
+  "description": "Functional jacket with multiple pockets",
+  "category": "Apparel",
+  "price": 54.99,
+  "supplier_info": {
+    "supplier_id": "S032",
+    "supplier_name": "Utility Wear",
+    "contact_info": {
+      "email": "contact@utilitywear.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf3596"
+  },
+  "product_id": "P067",
+  "product_name": "Men's Linen Shirt",
+  "description": "Breathable linen shirt for warm days",
+  "category": "Apparel",
+  "price": 39.99,
+  "supplier_info": {
+    "supplier_id": "S067",
+    "supplier_name": "Linen Lovers",
+    "contact_info": {
+      "email": "contact@linenlovers.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf3597"
+  },
+  "product_id": "P068",
+  "product_name": "Women's Linen Dress",
+  "description": "Airy linen dress for hot summer days",
+  "category": "Apparel",
+  "price": 44.99,
+  "supplier_info": {
+    "supplier_id": "S068",
+    "supplier_name": "Linen Luxe",
+    "contact_info": {
+      "email": "contact@linenluxe.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf3598"
+  },
+  "product_id": "P069",
+  "product_name": "Men's Cotton Cargo Shorts",
+  "description": "Functional cotton cargo shorts for outdoor activities",
+  "category": "Apparel",
+  "price": 34.99,
+  "supplier_info": {
+    "supplier_id": "S075",
+    "supplier_name": "Cargo Comfort",
+    "contact_info": {
+      "email": "contact@cargocomfort.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf3599"
+  },
+  "product_id": "P070",
+  "product_name": "Women's Striped T-Shirt",
+  "description": "Casual striped t-shirt for everyday wear",
+  "category": "Apparel",
+  "price": 19.99,
+  "supplier_info": {
+    "supplier_id": "S070",
+    "supplier_name": "Striped Style",
+    "contact_info": {
+      "email": "contact@stripedstyle.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf359a"
+  },
+  "product_id": "P071",
+  "product_name": "Women's Polo Shirt",
+  "description": "Classic polo shirt for casual style",
+  "category": "Apparel",
+  "price": 24.99,
+  "supplier_info": {
+    "supplier_id": "S071",
+    "supplier_name": "Polo Perfection",
+    "contact_info": {
+      "email": "contact@poloperfection.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf359b"
+  },
+  "product_id": "P072",
+  "product_name": "Women's Ruffle Blouse",
+  "description": "Feminine ruffle blouse for a romantic look",
+  "category": "Apparel",
+  "price": 34.99,
+  "supplier_info": {
+    "supplier_id": "S072",
+    "supplier_name": "Ruffle Romance",
+    "contact_info": {
+      "email": "contact@ruffleromance.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf359c"
+  },
+  "product_id": "P073",
+  "product_name": "Men's Linen Shorts",
+  "description": "Breathable linen shorts for warm days",
+  "category": "Apparel",
+  "price": 29.99,
+  "supplier_info": {
+    "supplier_id": "S067",
+    "supplier_name": "Linen Lovers",
+    "contact_info": {
+      "email": "contact@linenlovers.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf359d"
+  },
+  "product_id": "P074",
+  "product_name": "Women's Linen Blazer",
+  "description": "Lightweight linen blazer for a polished look",
+  "category": "Apparel",
+  "price": 44.99,
+  "supplier_info": {
+    "supplier_id": "S068",
+    "supplier_name": "Linen Luxe",
+    "contact_info": {
+      "email": "contact@linenluxe.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf359e"
+  },
+  "product_id": "P075",
+  "product_name": "Men's Cargo Pants",
+  "description": "Functional cargo pants for outdoor activities",
+  "category": "Apparel",
+  "price": 39.99,
+  "supplier_info": {
+    "supplier_id": "S075",
+    "supplier_name": "Cargo Comfort",
+    "contact_info": {
+      "email": "contact@cargocomfort.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf359f"
+  },
+  "product_id": "P076",
+  "product_name": "Women's Cargo Shorts",
+  "description": "Functional cargo shorts for outdoor activities",
+  "category": "Apparel",
+  "price": 34.99,
+  "supplier_info": {
+    "supplier_id": "S075",
+    "supplier_name": "Cargo Comfort",
+    "contact_info": {
+      "email": "contact@cargocomfort.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf35a0"
+  },
+  "product_id": "P077",
+  "product_name": "Men's Linen Blazer",
+  "description": "Lightweight linen blazer for a polished look",
+  "category": "Apparel",
+  "price": 49.99,
+  "supplier_info": {
+    "supplier_id": "S068",
+    "supplier_name": "Linen Luxe",
+    "contact_info": {
+      "email": "contact@linenluxe.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf35a1"
+  },
+  "product_id": "P078",
+  "product_name": "Women's Linen Pants",
+  "description": "Breathable linen pants for warm days",
+  "category": "Apparel",
+  "price": 44.99,
+  "supplier_info": {
+    "supplier_id": "S067",
+    "supplier_name": "Linen Lovers",
+    "contact_info": {
+      "email": "contact@linenlovers.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf35a2"
+  },
+  "product_id": "P079",
+  "product_name": "Men's Linen Trousers",
+  "description": "Breathable linen trousers for warm days",
+  "category": "Apparel",
+  "price": 49.99,
+  "supplier_info": {
+    "supplier_id": "S067",
+    "supplier_name": "Linen Lovers",
+    "contact_info": {
+      "email": "contact@linenlovers.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6621189fa4ffeb94b3cf35a3"
+  },
+  "product_id": "P080",
+  "product_name": "Women's Linen Shirt",
+  "description": "Breathable linen shirt for warm days",
+  "category": "Apparel",
+  "price": 39.99,
+  "supplier_info": {
+    "supplier_id": "S068",
+    "supplier_name": "Linen Luxe",
+    "contact_info": {
+      "email": "contact@linenluxe.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35a4"
+  },
+  "product_id": "P081",
+  "product_name": "Men's Slim-Fit Chinos",
+  "description": "Modern slim-fit chinos for a sleek look",
+  "category": "Apparel",
+  "price": 44.99,
+  "supplier_info": {
+    "supplier_id": "S081",
+    "supplier_name": "Yolo Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35a5"
+  },
+  "product_id": "P082",
+  "product_name": "Women's Slim-Fit Pants",
+  "description": "Modern slim-fit pants for a sleek look",
+  "category": "Apparel",
+  "price": 49.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35a6"
+  },
+  "product_id": "P083",
+  "product_name": "Men's Slim-Fit Blazer",
+  "description": "Modern slim-fit blazer for a sleek look",
+  "category": "Apparel",
+  "price": 69.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35a7"
+  },
+  "product_id": "P084",
+  "product_name": "Women's Slim-Fit Blazer",
+  "description": "Modern slim-fit blazer for a sleek look",
+  "category": "Apparel",
+  "price": 74.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35a8"
+  },
+  "product_id": "P085",
+  "product_name": "Men's Slim-Fit Trousers",
+  "description": "Modern slim-fit trousers for a sleek look",
+  "category": "Apparel",
+  "price": 54.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35a9"
+  },
+  "product_id": "P086",
+  "product_name": "Women's Slim-Fit Trousers",
+  "description": "Modern slim-fit trousers for a sleek look",
+  "category": "Apparel",
+  "price": 59.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35aa"
+  },
+  "product_id": "P087",
+  "product_name": "Men's Slim-Fit Pants",
+  "description": "Modern slim-fit pants for a sleek look",
+  "category": "Apparel",
+  "price": 49.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35ab"
+  },
+  "product_id": "P088",
+  "product_name": "Women's Slim-Fit Leggings",
+  "description": "Modern slim-fit pants for a sleek look",
+  "category": "Apparel",
+  "price": 54.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35ac"
+  },
+  "product_id": "P089",
+  "product_name": "Men's Cotton Slim-Fit Jeans",
+  "description": "Modern cotton slim-fit jeans for a sleek silhouette",
+  "category": "Apparel",
+  "price": 44.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35ad"
+  },
+  "product_id": "P090",
+  "product_name": "Women's Slim-Fit Jeans",
+  "description": "Modern slim-fit jeans for a sleek silhouette",
+  "category": "Apparel",
+  "price": 49.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35ae"
+  },
+  "product_id": "P091",
+  "product_name": "Men's Slim-Fit Shirt",
+  "description": "Modern slim-fit shirt for a sleek look",
+  "category": "Apparel",
+  "price": 34.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35af"
+  },
+  "product_id": "P092",
+  "product_name": "Women's Slim-Fit Shirt",
+  "description": "Modern slim-fit shirt for a sleek look",
+  "category": "Apparel",
+  "price": 39.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35b0"
+  },
+  "product_id": "P093",
+  "product_name": "Men's Slim-Fit Sweater",
+  "description": "Modern slim-fit sweater for a sleek look",
+  "category": "Apparel",
+  "price": 49.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35b1"
+  },
+  "product_id": "P094",
+  "product_name": "Women's Slim-Fit Sweater",
+  "description": "Modern slim-fit sweater for a sleek look",
+  "category": "Apparel",
+  "price": 54.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35b2"
+  },
+  "product_id": "P095",
+  "product_name": "Men's Slim-Fit Jacket",
+  "description": "Modern slim-fit jacket for a sleek look",
+  "category": "Apparel",
+  "price": 59.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35b3"
+  },
+  "product_id": "P096",
+  "product_name": "Women's Slim-Fit Jacket",
+  "description": "Modern slim-fit jacket for a sleek look",
+  "category": "Apparel",
+  "price": 64.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35b4"
+  },
+  "product_id": "P097",
+  "product_name": "Men's Slim-Fit Hoodie",
+  "description": "Modern slim-fit hoodie for a sleek look",
+  "category": "Apparel",
+  "price": 49.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35b5"
+  },
+  "product_id": "P098",
+  "product_name": "Women's Slim-Fit Hoodie",
+  "description": "Modern slim-fit hoodie for a sleek look",
+  "category": "Apparel",
+  "price": 54.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35b6"
+  },
+  "product_id": "P099",
+  "product_name": "Men's Slim-Fit Sweatshirt",
+  "description": "Modern slim-fit sweatshirt for a sleek look",
+  "category": "Apparel",
+  "price": 44.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662119fea4ffeb94b3cf35b7"
+  },
+  "product_id": "P100",
+  "product_name": "Women's Slim-Fit Sweatshirt",
+  "description": "Modern slim-fit sweatshirt for a sleek look",
+  "category": "Apparel",
+  "price": 49.99,
+  "supplier_info": {
+    "supplier_id": "S027",
+    "supplier_name": "Slim Styles",
+    "contact_info": {
+      "email": "contact@slimstyles.com",
+      "phone": "+1234567890"
+    }
+  }
+}]
